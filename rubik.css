@@ -1,4 +1,5 @@
 body{
+  color: #443502;
   background-image: url(./hatterkocka.png);
   background-color: #ededc1;
   background-size: 70px 70px;
@@ -16,6 +17,7 @@ h1{
 }
 
 p{
+  border: black 2 px solid;
   text-align: justify;
 }
 
